@@ -1,0 +1,5 @@
+# 書誌情報．扉・柱・PDF の文書情報へ流し込む単一の出所
+# 扉と奥付の {{book-title}} / {{book-author}} はここから置き換わる
+title: "書籍タイトル"
+author: "著者名"
+lang: ja

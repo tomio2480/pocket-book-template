@@ -1,0 +1,22 @@
+{
+  "name": "pocket-book-template",
+  "version": "0.1.0",
+  "description": "Vivliostyle を使用した文庫本（A6・縦書き）の自動組版テンプレート",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "vivliostyle build",
+    "preview": "vivliostyle preview",
+    "test": "node --test scripts/*.test.mjs",
+    "clean": "rimraf dist .vivliostyle"
+  },
+  "devDependencies": {
+    "@vivliostyle/cli": "^11.2.0",
+    "@vivliostyle/vfm": "^2.7.2",
+    "rimraf": "^6.1.3",
+    "yaml": "^2.9.0"
+  },
+  "engines": {
+    "node": ">=22.12.0"
+  }
+}

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="240" viewBox="0 0 480 240" role="img" aria-label="A6 判の紙面に版面と余白を示した模式図">
+  <rect x="0.5" y="0.5" width="479" height="239" fill="#fff" stroke="#000" stroke-width="1"/>
+  <rect x="60" y="30" width="360" height="180" fill="none" stroke="#000" stroke-width="1.5"/>
+  <text x="240" y="125" font-size="18" text-anchor="middle" font-family="serif">版面（一五行 × 三八字）</text>
+  <text x="240" y="20" font-size="12" text-anchor="middle" font-family="serif">天</text>
+  <text x="240" y="230" font-size="12" text-anchor="middle" font-family="serif">地</text>
+  <text x="30" y="124" font-size="12" text-anchor="middle" font-family="serif">小口</text>
+  <text x="450" y="124" font-size="12" text-anchor="middle" font-family="serif">のど</text>
+</svg>
