@@ -13,7 +13,7 @@
   "devDependencies": {
     "@vivliostyle/cli": "^11.5.0",
     "@vivliostyle/vfm": "^2.7.2",
-    "rimraf": "^6.1.3",
+    "rimraf": "^6.1.4",
     "yaml": "^2.9.1"
   },
   "engines": {
