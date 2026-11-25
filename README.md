@@ -132,7 +132,8 @@ lang: ja
 │   ├── dependabot.yml           # npm と GitHub Actions の更新監視
 │   └── workflows/
 │       ├── build-pdf.yml        # テスト・PDF 生成・Release
-│       └── md-lint.yml          # Markdown lint（reviewdog）
+│       ├── md-lint.yml          # Markdown lint（reviewdog）
+│       └── session-url-check.yml # セッション URL 検査（PR 本文・commit）
 ├── config/
 │   ├── book.yaml                # 書誌情報（書名・著者名）
 │   └── themes/bunko/theme.css   # 文庫本テーマ
