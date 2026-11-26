@@ -18,5 +18,10 @@
   },
   "engines": {
     "node": ">=22.12.0"
+  },
+  "overrides": {
+    "refractor": {
+      "prismjs": "^1.30.0"
+    }
   }
 }
